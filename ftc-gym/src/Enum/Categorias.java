@@ -1,6 +1,0 @@
-package Enum;
-
-public enum Categorias {
-    TRAPEZIO, OMBROS, BICEPS, TRICEPS, PUNHOS, PEITO, ABDOMEN,
-    GLUTEOS, COXAS, PANTURRILHAS;
-}
